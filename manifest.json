@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Shareit -social media share",
+    "author": "redadmiral1118@gmail.com",
+    "version": "1.1.1",
+    "description": "Share the current page on social media platforms, or create qr code, take picture etc",
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/icons/shareit.png",
+      "48": "/icons/shareit.png",
+      "128": "/icons/shareit.png"
+    }
+    }
+
+  }
+  
