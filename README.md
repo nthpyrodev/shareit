@@ -1,6 +1,6 @@
 # shareit
 
-I made this chrome extension when I was a teenager, made a few updates, but is mostly abandoned now...
+I made this chrome extension when I was learning to code, made a few updates, but is mostly abandoned now...
 
 
 This extension creates posts on any social media platform selected by you with the link of the current page inside. It also creates emails with the link, takes screenshots of the web page, lengthens or shortends the link, creates a QR code and even translates the link to morse code then copies!
@@ -14,5 +14,4 @@ Added link lengthener/shortener, QR code creator and improved layout.
 Updated from Twitter to X.
 
 
-https://chromewebstore.google.com/detail/shareit-social-media-shar/ombddfddchdlcnbkagpnncofkjplbfdp?hl=en-GB&authuser=0
-Note: Please, if you are going to copy any of the code, at least give some credit?
+https://chromewebstore.google.com/detail/shareit-social-media-shar/ombddfddchdlcnbkagpnncofkjplbfdp
